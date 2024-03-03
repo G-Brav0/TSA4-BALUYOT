@@ -1,6 +1,3 @@
-// prompt
-// create a javascript code that will allow the button type to change the background-image of class card-body and vice-versa
-
 // 1st set (Free Sign up btn)
 const button = document.querySelector('button');
 const cbg = document.getElementById("bg");
